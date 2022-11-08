@@ -24,23 +24,36 @@ The Slam Toolbox package incorporates information from laser scanners in the for
 
 ## RQT Graph
 
-<!-- <p align="center">
-  <img src = "Images/nodeGraph.png" width = "600" >
-</p> -->
+<p align="center">
+  <img src = "media/Kazam_screenshot_000044.png" width = "610" >
+</p> 
 
 
-## Images
+## General Setup
+<p align="center">
+  <img src = "media/Kazam_screenshot_00002.png" height = "250" >
+  <img src = "media/Kazam_screenshot_00004.png" height = "250" >
+  <img src = "media/Kazam_screenshot_00005.png" height = "450" >
+</p> 
 
-<!-- <p align="center">
-  <img src = "Images/img1.png" width = "450" >
-  <img src = "Images/img2.png" width = "450" >
-  <img src = "Images/img3.png" width = "450" >
-  <img src = "Images/img4.png" width = "450" >
-  <img src = "Images/img6.png" width = "450" >
-  <img src = "Images/img7.png" width = "450" >
-</p> -->
+## SLAM results
+<p align="center">
+  <img src = "media/Kazam_screenshot_00010.png" width = "750" >
+  <img src = "media/Kazam_screenshot_00009.png" width = "750" >
+</p> 
 
-## Results
+## NAV 2 results
+
+<p align="center">
+  <img src = "media/Kazam_screenshot_000011.png" height = "320" >
+  <img src = "media/Kazam_screenshot_000022.png" height = "320" >
+  <img src = "media/Kazam_screenshot_000033.png" height = "320" >
+  <img src = "media/Kazam_screenshot_00008.png" height = "450" >
+  <img src = "media/Kazam_screenshot_000055.png" height = "450" >
+</p> 
+
+
+
 
 <!-- The final result can be found in this [Video Link](https://drive.google.com/file/d/13d53jG-qHz8MxfdAAgOHgRX02tFpSac2/view?usp=sharing)  -->
 
