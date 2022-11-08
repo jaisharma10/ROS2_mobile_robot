@@ -51,8 +51,8 @@ The Slam Toolbox package incorporates information from laser scanners in the for
 ## Acknowledgements
 
  - Inspired by work done in this [Blog Article](https://automaticaddison.com/navigation-and-slam-using-the-ros-2-navigation-stack/)
- - [Nav 2](https://github.com/ros-planning/navigation2)
- - [Slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+ - Nav2 [Github](https://github.com/ros-planning/navigation2) and [Documentation](https://navigation.ros.org/)
+ - Slam_toolbox [Github](https://github.com/SteveMacenski/slam_toolbox)
  - ROS 2 Foxy Fitzroy - [Tutorials](https://docs.ros.org/en/foxy/Tutorials.html)
 
 
